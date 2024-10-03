@@ -1,0 +1,12 @@
+{
+  "name": "@gothassos/clientside-video-thumbnails",
+  "version": "0.0.1",
+  "description": "This library attempts to make thumbnails in the browser before the user has uploaded it to the server. The idea being that it is one less thing for the user to wait for (especially if it's a large file), but also to save some processing time on the server.",
+  "main": "videoThumbnails.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED"
+}
